@@ -160,12 +160,6 @@ device_data = pd.DataFrame({
 
 with st.sidebar:
 
-    # Airtel logo
-    st.image(
-        "https://upload.wikimedia.org/wikipedia/commons/7/75/Airtel_logo.svg",
-        width=145
-    )
-
     st.divider()
 
     st.markdown("## ⚙️ Dashboard Filters")
